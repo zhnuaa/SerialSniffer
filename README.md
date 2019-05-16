@@ -1,1 +1,3 @@
 # SerialSniffer
+
+基于arduino mega2560 Serial1和Serial2分别接要侦听的通信线路，通讯内容通过Serial返回，需事先确定通讯波特率
